@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Código Espejo Miguel Chaves</title>
+	<link rel="stylesheet" href="CodigoEspejoCss.css">
+	<script src = 'CodigoEspejoScript.js'></script>
+</head>
+<body>
+	<center>
+		<div id = "cuerpo">
+				<header>					
+					<h1>
+						Miguel Chaves<br>
+						561-210-209<br>
+						Código Espejo (Atbash)<hr>
+					</h1>								
+				</header>
+
+			<div id="Codifica">
+				<input type="text" id="Palabra" placeholder = "Ingrese una palabra o frase para codificar"><br><br>
+				<div id="Resultado"></div>
+			</div>
+			
+		</div>
+	</center>	
+</body>
+</html>

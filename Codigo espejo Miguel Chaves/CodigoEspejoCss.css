@@ -1,0 +1,61 @@
+body
+{
+	background-image:url(Fondo.jpg);
+}
+#cuerpo
+{
+	width: 900px;
+	height: 600px;
+	background-image:url(Texture.jpg);
+}
+header
+{
+	/*background-color: #C69141;*/
+	color: black;
+	font-size: 100%;
+}
+#Palabra
+{
+	font-size: 18px;
+	width: 80%;
+	height: 50px;
+	margin: 5px;
+}
+#Codifica
+{
+	width: 450px;
+	height: 600px;
+}
+#Resultado
+{
+	background-color: #E4E1F5;
+	font-size: 20px;
+	width: 80%;
+	height: 50px;
+	margin: 5px;
+	text-align: center;
+}
+
+.nocumple
+{
+	border-color: #FFCC66;
+	background-color: #FFCC66;
+	border-width:4px;
+	
+}
+
+.cumple
+{
+	border-color: #99FF66;
+	background-color: #99FF66;
+	border-width:4px;
+}
+
+.blanco
+{
+	background-color: white;
+}
+hr
+{
+	border: 2px solid yellow;
+}
